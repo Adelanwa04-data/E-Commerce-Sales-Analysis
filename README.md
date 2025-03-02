@@ -5,3 +5,11 @@
 
 ### Data Sources
 The primary source of Data used is Sales Analysis.csv. This is an open source data that can be freely downloaded from Kaggle or any other open source data repository site.
+
+### Analytical Tools
+- Python
+   1. For Data Cleaning
+   2. For Analysis
+   3. For Data Visualization
+      
+- Github for Portofolio Building

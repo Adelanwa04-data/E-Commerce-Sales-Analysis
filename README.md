@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+# Olist Sales Analysis
 
 ## Project Overview
 ---
